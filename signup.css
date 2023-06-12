@@ -1,0 +1,71 @@
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/119/570/small/nc-monogram-logo-line-style-vector.jpg);
+    margin-left: 20%;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h1{
+    display: flex;
+    justify-content: center;
+    color: beige;
+    size: 30px;
+    margin-bottom: 30px;
+    color:yellow;
+}
+.name{
+    border: 70%;
+    margin: 15px 10px 30px;
+    color:yellow;
+}
+.en{
+    display: flex;
+    justify-content: center;
+    margin: 15px 20px 25px;
+    border-style: outset;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+.bd{
+    margin: 15px 30px 25px;
+    border-style: outset;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+.ea{
+    margin: 15px 30px 25px;
+    border-style: outset;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+.pn{
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 25px;
+    border-style: outset;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+}
+.cb{
+    margin-top: 15px;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-bottom: 15px;
+    border-style: outset;
+    border-color: transparent;
+    border-radius: 5px;
+}
+.b{
+    margin-left: 30px;
+    border-style: outset;
+    border-color: transparent;
+    border-radius: 5px;
+    background-color: darkgreen;
+    color: aliceblue;
+    padding: 5px ;
+}

@@ -1,0 +1,50 @@
+.one{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url(https://static.vecteezy.com/system/resources/thumbnails/002/119/570/small/nc-monogram-logo-line-style-vector.jpg);
+}
+.h1{
+    text-align: center;
+    color: azure;
+    font-size: 30px;
+}
+.li{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFFuIcaNZ4_DSKcXQVIbXZktm5VxdVyixeO58THaVJXVjlTHnxLFA0NLD_4e7wAc3gG2k&usqp=CAU);
+    margin-top: 70px;
+}
+.t{
+    margin: 13px 10px 15px;
+    border-radius: 14px;
+    padding: 5px 8px 5px;
+    border-style: double;
+}
+.pw{
+    margin: 13px 10px 15px;
+    border-radius: 14px;
+    padding: 5px 8px 5px;
+    border-style: double;
+}
+.b{
+    margin: 13px 10px 15px;
+    border-radius: 14px;
+    padding: 5px 8px 5px;
+    border-style: none;
+    background-color: blue;
+    border-color: black;
+    color: antiquewhite;
+}
+.s{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 13px 10px 15px;
+    color: grey;
+}
+.su{
+    margin: 13px 10px 15px;
+    border-radius: 14px;
+    padding: 5px 8px 5px;
+    color: antiquewhite;
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+    border-color: darkred;
+}
